@@ -1,19 +1,21 @@
 # I'm Leonardo,! 👋
-### 📚 Student, 🧑🏻‍💻 Self-Taught Programmer and 🐧 Linux Lover
-### 🧑🏻‍🏫 I am currently studying Computer Sciences Engineering
 
-#### ⚡ **My skills**
+📚 Student <br>
+🧑🏻‍💻 Self-Taught Programmer <br>
+🐧 Linux User <br>
+🧑🏻‍🏫 I am currently studying Computer Sciences Engineering <br>
 
-##### 🌐 Web Development:
-- Frontend:
-  - HTML5
-  - CSS, Sass, Tailwind
-  - Javascript, React.js
-- Backend:
-  - Node.js
-  - Express Framework
+---
+### ⚡ **My skills**
 
+### 🌐 Web Development:
+#### Frontend:
+
+![My Skills in Frontend](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,inertia)
+---
+#### Backend:
+
+![My Skills in Frontend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+---
 ##### 💻 Programming Languages:
-- Java
-- C++
-- Python
+![My Skills in Frontend](https://skillicons.dev/icons?i=java,cpp,python)
