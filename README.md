@@ -11,11 +11,14 @@
 ### 🌐 Web Development:
 #### Frontend:
 
-![My Skills in Frontend](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,inertia)
+![HTML, CSS, Tailwind CSS, Sass, Javascript, Typescript, React, Inertia](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,inertia)
 ---
 #### Backend:
 
-![My Skills in Frontend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+![Node JS, Express, PHP, Laravel, MySQL](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
 ---
 ##### 💻 Programming Languages:
-![My Skills in Frontend](https://skillicons.dev/icons?i=java,cpp,python)
+![Java, C++, Python](https://skillicons.dev/icons?i=java,cpp,python)
+
+##### 📖 Learning
+![](https://skillicons.dev/icons?i=flutter,dart)
