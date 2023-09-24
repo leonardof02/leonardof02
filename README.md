@@ -1,4 +1,4 @@
-# I'm Leonardo,! 👋
+# I'm Leonardo! 👋
 
 📚 Student <br>
 🧑🏻‍💻 Self-Taught Programmer <br>
