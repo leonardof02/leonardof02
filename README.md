@@ -5,7 +5,7 @@
 🧑🏻‍🏫 Computer Sciences Engineering at UCI<br>
 
 ▶️ Content Creator in YouTube (Spanish)
-
+https://www.youtube.com/@leonardof02
 
 ---
 ### ⚡ **My skills**
