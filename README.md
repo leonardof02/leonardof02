@@ -4,6 +4,9 @@
 🐧 Linux User <br>
 🧑🏻‍🏫 Computer Sciences Engineering at UCI<br>
 
+▶️ Content Creator in YouTube (Spanish)
+
+
 ---
 ### ⚡ **My skills**
 
