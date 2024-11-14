@@ -1,9 +1,8 @@
 # I'm Leonardo! 👋
 
-📚 Student <br>
 🧑🏻‍💻 Self-Taught Programmer <br>
 🐧 Linux User <br>
-🧑🏻‍🏫 I am currently studying Computer Sciences Engineering at UCI<br>
+🧑🏻‍🏫 Computer Sciences Engineering at UCI<br>
 
 ---
 ### ⚡ **My skills**
