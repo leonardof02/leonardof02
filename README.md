@@ -1,25 +1,43 @@
-# I'm Leonardo! 👋
+# Hi, I'm Leonardo 👋
 
-🧑🏻‍💻 Self-Taught Programmer <br>
-🐧 Linux User <br>
-🧑🏻‍🏫 Computer Sciences Engineering at UCI<br>
+**Full Stack Software Engineer** · Computer Science Engineer (UCI) · Linux enthusiast 🐧
 
-▶️ Content Creator in YouTube (Spanish)
-https://www.youtube.com/@leonardof02
+I'm a deeply curious person who loves understanding how things work under the hood — from software architecture and system design to how a CPU runs your code. I'm always eager to learn something new, and just as eager to share it with others.
+
+🌐 **Portfolio:** [leonardof02.github.io](https://leonardof02.github.io)
 
 ---
-### ⚡ **My skills**
 
-### 🌐 Web Development:
-#### Frontend:
+### 🛠️ Technologies I work with
 
-![HTML, CSS, Tailwind CSS, Sass, Javascript, Typescript, React, Inertia](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,inertia)
+![](https://skillicons.dev/icons?i=ts,js,cs,python,rust)
+
+![](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,express,dotnet)
+
+![](https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git)
+
 ---
-#### Backend:
-![Node JS, Express, PHP, Laravel, MySQL](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+
+### 🔭 What I'm into right now
+
+- 🤖 **AI Engineering** — RAG, Tool Calling and LLM-powered apps
+- 🏛️ **Software architecture** — Clean Architecture, DDD and Domain Events
+- 📐 **System design** — studying *Designing Data-Intensive Applications* ([my notes in Spanish](https://github.com/leonardof02/ddia-notes))
+- ⚙️ **Computer science fundamentals** — compilers, networking and how data is stored
+
 ---
-##### 💻 Programming Languages:
-![Java, C++, Python](https://skillicons.dev/icons?i=java,cpp,python)
+
+### ▶️ Learning in public on YouTube
+
+Teaching is the best way I know to truly learn something — that's why I run **[Leo Códigos](https://www.youtube.com/@leonardof02)**, a Spanish-language channel where I share what I learn about programming, software architecture, AI and computer science fundamentals.
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 ---
-##### 📖 Learning
-![](https://skillicons.dev/icons?i=flutter,dart)
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardof02/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leonardof02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white)](https://leonardof02.github.io)
