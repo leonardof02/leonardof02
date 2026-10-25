@@ -8,11 +8,17 @@ I'm a deeply curious person who loves understanding how things work under the ho
 
 ### 🛠️ Technologies I work with
 
-![](https://skillicons.dev/icons?i=ts,js,cs,python,rust)
+![](https://skillicons.dev/icons?i=ts,js,cs,python,rust,php,c,cpp)
 
-![](https://skillicons.dev/icons?i=react,nextjs,astro,tailwind,nodejs,express,dotnet)
+![](https://skillicons.dev/icons?i=react,nextjs,angular,vue,astro,tailwind)
 
-![](https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git)
+![](https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel)
+
+![](https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,linux,git)
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-211E1E?style=for-the-badge&logo=opencode&logoColor=white)
 
 ---
 
